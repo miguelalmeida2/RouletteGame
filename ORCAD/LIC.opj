@@ -1,0 +1,95 @@
+(ExpressProject "LIC"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\lic.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (VCC_ARROW
+      (LibraryName "C:\ORCAD\ORCAD_16.5_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.5_LITE\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\ORCAD\ORCAD_16.5_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\ORCAD\ORCAD_16.5_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\ORCAD\ORCAD_16.5_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-L
+      (LibraryName "C:\ORCAD\ORCAD_16.5_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-L
+      (LibraryName "C:\ORCAD\ORCAD_16.5_LITE\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (ATF750C
+      (FullPartName "ATF750C.Normal")
+      (LibraryName "C:\USERS\USER\DESKTOP\GIT\JAVA-LIC\LICORCAD\ISEL_LIB.OLB")
+      (DeviceIndex "0"))
+    (74574
+      (FullPartName "74574.Normal")
+      (LibraryName "C:\USERS\USER\DESKTOP\GIT\JAVA-LIC\LICORCAD\ISEL_LIB.OLB")
+      (DeviceIndex "0"))
+    (4x4Keyboard
+      (FullPartName "4x4Keyboard.Normal")
+      (LibraryName "C:\USERS\USER\DESKTOP\GIT\JAVA-LIC\LICORCAD\ISEL_LIB.OLB")
+      (DeviceIndex "0"))
+    (LCD_2_16
+      (FullPartName "LCD_2_16.Normal")
+      (LibraryName "C:\USERS\USER\DESKTOP\GIT\JAVA-LIC\LICORCAD\ISEL_LIB.OLB")
+      (DeviceIndex "0"))
+    (LTS-4301JF
+      (FullPartName "LTS-4301JF.Normal")
+      (LibraryName "C:\USERS\USER\DESKTOP\GIT\JAVA-LIC\LICORCAD\ISEL_LIB.OLB")
+      (DeviceIndex "0"))
+    (RD47seg
+      (FullPartName "RD47seg.Normal")
+      (LibraryName "C:\USERS\USER\DESKTOP\GIT\JAVA-LIC\LICORCAD\ISEL_LIB.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory "C:\Users\user\Desktop\Git\Java-LIC\LICOrCAD")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\lic.dsn")
+      (Path "Design Resources" ".\lic.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\lic.dsn" "Design Cache")
+      (Select "Design Resources" ".\lic.dsn" "SCHEMATIC1"
+         "Jogo Roleta Paralelo"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 254 0 461"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1737 104 604")
+        (Scroll "0 38")
+        (Zoom "192")
+        (Occurrence "/"))
+      (Path "C:\USERS\TIAGO\DESKTOP\GIT\G5-LIC2020-2021\LICORCAD\LIC.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Jogo Roleta Paralelo"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 26 1371 26 530")
+        (Scroll "-434 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\USERS\TIAGO\DESKTOP\GIT\G5-LIC2020-2021\LICORCAD\LIC.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "Jogo Roleta Serie"))))
